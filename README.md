@@ -1,4 +1,4 @@
-Hi, I'm Henrique.
+Hi, I'm Henrique 👋
 
 I'm an engineer who ended up building products, businesses, and engineering organizations.
 
